@@ -1,0 +1,13 @@
+__pycache__
+*.toml
+*.lock
+*.json
+*.csv
+*.md
+*.png
+*.ico
+*.jpg
+*.bmp
+LICENSE
+*.txt
+ignore.g
